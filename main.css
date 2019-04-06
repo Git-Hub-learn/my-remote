@@ -1,0 +1,32 @@
+html, body{
+    padding: 0;
+    margin:0;
+}
+
+body{
+    background-color: #29163b;
+    padding-top: 40px;
+}
+
+h2{
+    color: #e7dcf2;
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 15%;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: #bbbb73;
+    letter-spacing: 4px;
+    font-size: 16px;
+    text-shadow: 1px 1px 1px #1d1111;
+}
